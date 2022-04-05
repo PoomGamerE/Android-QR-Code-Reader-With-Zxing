@@ -7,6 +7,4 @@ Android QR Code Reader With Zxing อ่านคิวอาร์โค้ด�
 compile 'com.google.zxing:3.3.0'
 ```
 
-## License ([Hushub License](https://github.com/Hushub/License))
-
-Copyright © 2020 Hushub
+## License ([WTFPL License](https://en.wikipedia.org/wiki/WTFPL))
